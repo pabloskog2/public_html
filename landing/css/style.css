@@ -1,0 +1,1069 @@
+body {color: #000;font-family: 'Roboto', sans-serif !important ;font-size: 16px;}
+h1,h2,h3,h4 {margin:0; font-weight:400;}
+ul {list-style: none inside;padding:0;margin:0;}
+li {margin:0;padding:0;}
+p {margin:0;}
+.title_cotiza {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+.tituloPlanta {
+    font-size: 1.3em;
+    margin-bottom: 20px; 
+} 
+.tabcontent .col-md-3 {
+    padding: 60px 0 90px 0 !important;
+}
+.tabcontent ul {
+    padding: 20px 0 !important;
+}
+.container-xs2 {
+    width: 514px;
+    margin: 0 auto;
+    display: block;
+}
+.tabcontent h3 {
+    font-weight: 800 !important;
+    font-size: 19px;
+}
+.avance {
+    width: 28px;
+    margin-top: -2px;
+    margin-left: 3px;
+}
+
+.PROMO a.btnLink.small{
+    background: #08444d !important;
+    border: none !important;
+    font-size: 15px !important;
+    margin: 4px !important;
+}
+.PROMO h3 {
+    text-align: center !important; 
+}
+.PROMO h2 {
+    text-align: center !important; 
+}
+.veninte{
+    width: 300px !important; 
+    margin: 0 auto !important; 
+    display: block !important; 
+}
+.PROMO .imgCaption {
+    left: 0 !important;
+}
+.PROMO .imgCaption span {
+    width: 400px !important; 
+    margin: 0 auto !important; 
+    display: block !important; 
+}
+.PROMO .imgCaption {
+    width: 100% !important; 
+}
+.tab h3 {
+    font-size: 19px;
+}
+
+.proy01 ul li {
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 30px;
+}
+.proy02 ul li {
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 30px;
+}
+.btnCotiza3{
+    background: white;
+    color: black;
+    font-weight: 300;
+    padding: 8px 40px;
+    text-decoration: none !important;
+}
+.btnCotiza1{
+    background: black;
+    color: white;
+    font-weight: 300;
+    padding: 8px 40px;
+    text-decoration: none !important;
+}
+div#js-rangeslider-0 {
+    opacity: 0.4;
+    cursor: no-drop;
+}
+.btn-cotizar {
+    background: black !important;
+    color: white !important;
+    border: 1px solid black;
+     padding: 5px 20px;
+     font-size: 15px;
+     margin-top: 20px;
+     position: absolute;
+     right: 10px;
+     top: 0px;
+}
+.btn-cotizar:hover {
+    background: white !important;
+    color: black !important;
+    border: 1px solid black;
+   
+    text-decoration: none !important;
+}
+#js-rangeslider-0 .rangeslider__handle {
+    cursor: no-drop;
+}
+div#calc_profit {
+    top: -65px;
+    position: relative;
+}
+.span_cotiza p {
+    font-size: 0.5em;
+    text-align: left; 
+    font-weight: 200;
+}
+#form_cotiza .btnCotizar {
+    width: 100%;
+    background: black;
+    color: white;
+    border: 0;
+}
+#form_cotiza .btnCotizar:hover {
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+.superior_dividenvo{
+    height: 100px;
+    position: relative;
+    z-index: 100;
+}
+div#royal_calculators {
+    text-align: left !important;
+}
+section,footer {width:100%; float:left; overflow:hidden;} 
+.wrapper {width:100%; padding:0;}
+.padLeft {padding-left:7.5%;}
+.padRight {padding-right:7.5%;}
+.padTop {padding-top: 8%}
+.paddLR {padding:0 7% !important;}
+.navbar {transition: all 0.2s ease-out;}
+.nopadding {padding-left:0; padding-right:0}
+.navbar-nav {margin-top:12px;}
+.navbar img.logoBlack {display:none;}
+.navbar.whitebg {background:#fff;transition: all 0.2s ease-out;}
+.navbar.whitebg img.logoW {display: none;}
+.navbar.whitebg img.logoBlack {display:block;}
+.navbar .container.wrapper {padding:0 7% !important;}
+.navbar-default .navbar-toggle {border:none; background:none;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background:none;}
+.navbar-toggle .icon-bar {background-color: black !important; height:3px;}
+.navbar {background:none; border-radius: 0; border:none; margin:0; height:auto; padding:1% 0;}
+.nav > li {margin:0 10px;}
+.nav > li > a {padding: 15px 5px;}
+.logo-resp {margin-left:15px;}
+.navbar-default .navbar-nav > li > a {font-size:14px; color:white; text-transform: uppercase; font-weight:300; letter-spacing: 2px}
+.navbar-default .navbar-nav > li > a.activo {font-weight:500; border-bottom:  solid 1px white;}
+.navbar-default .navbar-nav > li > a:hover {font-weight:500;border-bottom:  solid 1px white;}
+.navbar.whitebg li a  {color:black;}
+.navbar.whitebg li a.activo {font-weight:500; border-bottom:  solid 1px black;}
+.navbar.whitebg li a:hover {font-weight:500; border-bottom:  solid 1px black; color: black !important}
+.banner-home {padding-left: 0; padding-right: 0;}
+.banner-home .imgBanner {height:90vh;background-size: cover !important; background-position: center !important; position:relative !important; background-repeat: no-repeat !important;}
+.banner-home .imgBanner .imgCaption {position:absolute; top:28%; left:7%; color: white; z-index:9}
+.banner-home .imgBanner .imgCaption h3 {font-size:1.95em;font-weight: 400; margin-bottom:7%;}
+.banner-home .imgBanner .imgCaption h2 {font-size: 3.05em; font-weight: 200; line-height:1.25;}
+.banner-home .imgBanner .imgCaption h2 span { font-weight: 400;}
+section.diseno .imgDiseno {height:618px; background-size: cover !important; background-position: center;}
+section {margin:0; z-index:1; position:relative;}
+section.black {background-color: #000; color: white;}
+section.paddingTB {padding:4% 0;}
+section h1 {font-size:2.625em; display:table; margin-bottom:44px; font-weight:300; text-transform: uppercase;}
+section h1:after {content: ''; display:block; width:25%; float:right; background: #555555; height:1px; margin-top:9px;}
+section h1 span {font-size:20px; display:block; clear:both; margin-bottom:2px; font-weight:300;}
+section p {font-size:1em; text-align: justify; font-weight:300;}
+section .txtBajada {font-size:1em; font-weight:300; margin-bottom:15%; width:95%;text-align: justify; }
+.dos_icos {display:table !important; width:100%; text-align: center; margin-top:0;}
+.dos_icos li {display:inline-block; float:none; width:20%; padding:0 3%;}
+.dos_icos li img {margin:0 auto;}
+footer {padding: 5% 0 2%; background: black; color:#fff; z-index:9999; position:relative;}
+.dos_icos {display:table !important; width:100%; text-align: center; margin-top:3%;}
+.dos_icos li img {margin:0 auto;}
+.dos_icos li span {margin-top:10px; font-size:1em; display:block; width: 100%}
+footer .fraseFooter {font-size:1em; font-weight:200; color: white; text-align: left;}
+footer .wrapper {width:100% !important; padding:0 7%;}
+footer .fraseFooter span {font-weight:400;}
+footer .redesFooter ul {display:table; width: 100%; text-align: center;}
+footer .redesFooter ul li {display:inline-block; padding:2px 8px; line-height: 1;}
+footer .redesFooter ul li:first-child {border-right: solid 1px white}
+footer .redesFooter ul li a {color:white; font-size:1em;font-weight:200; text-transform: uppercase}
+footer .redesFooter ul li a:hover {text-decoration: none;}
+
+footer .logoFooter .img {clear: both; float:right;}
+footer .logoFooter .direccion {color:#a8a8a8; text-align: right; clear:both; font-size:14px; font-weight:300; margin-top:4px;}
+footer .logoFooter .legal {color:#a8a8a8; text-align: right; clear:both; float: right !important; font-size:16px !important;}
+footer .logoFooter .legal img {vertical-align: top; margin-top:2px;}
+
+.banner-interior {padding-left: 0; padding-right: 0;}
+.banner-interior .imgBanner {height:90vh; background-size: cover !important; background-position: center 48% !important; position:relative !important; background-repeat: no-repeat !important;}
+.banner-interior .imgBanner .imgCaption {position:absolute; top:43%; left:7%;z-index:3;}
+.banner-interior .imgBanner .imgCaption h3 {color:#fff;font-size:1.95em;font-weight: 400; margin-bottom:1%;text-transform:uppercase}
+.banner-interior .imgBanner .imgCaption h2 {color:#fff;font-size: 3.05em; font-weight: 200; line-height:1.25; text-transform:uppercase}
+.banner-interior .imgBanner .imgCaption h2 span { font-weight: 400;}
+
+.proy02 .imgPatio {height:643px; background-size: cover !important; background-position: center bottom !important; background-repeat: no-repeat !important;}
+section.caracteristicas ul.listaCaract:first-child {margin-bottom:23px;}
+section.caracteristicas ul.listaCaract li {display:table-cell; width:25%;}
+section.caracteristicas ul.listaCaract {display:table; text-align: center; width:100%;}
+section.caracteristicas ul.listaCaract li img {width: 82px; clear:both; display:table; margin:0 auto 12px auto;}
+section.caracteristicas ul.listaCaract li span.txtCaract {font-size:11px; clear:both; width:100%; display:block; margin-top:10px; text-transform: uppercase; font-weight:400;}
+
+section.comodidades .imgComodidades {height:643px; background-size: cover !important; background-position: center 62% !important; background-repeat: no-repeat !important; margin-top:31px;}
+section.comodidades ul.listComodidades li {font-weight:300; font-size:16px; font-weight:300; float:left;width:50%; line-height: 1.75}
+section.comodidades ul.listComodidades li span {font-size:9px;font-weight:500;}
+section.comodidades ul.listComodidades li span.num:after {content: '';width:36px; height:1px; background:#555; display:inline-block;}
+a.btnLink {font-weight:400; font-size:15px; line-height:1; padding:12px 0 16px; display:table; margin:0 auto; border: solid 1px #000; background-color: black; width:254px; text-align: center; color:white;text-decoration: none;  -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out, border-color 0.3s ease-out;transition: color 0.3s ease-out,background-color 0.3s ease-out,border-color 0.3s ease-out;}
+a.btnLink.small {font-weight:300; font-size:18px; line-height:1; padding:10px 0 10px; display:table; margin:20px auto; border: solid 1px #000; background-color: black; width:194px; text-align: center; color:white;text-decoration: none;  -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out, border-color 0.3s ease-out;transition: color 0.3s ease-out,background-color 0.3s ease-out,border-color 0.3s ease-out; letter-spacing: 3px; text-transform: uppercase;}
+a.btnLink:hover,a.btnLink:active {background-color: transparent;border-color: #000;color: black;-webkit-transition:color 0.3s ease-in, background-color 0.3s ease-in, border-color 0.3s ease-in;transition: color 0.3s ease-in,background-color 0.3s ease-in,border-color 0.3s ease-in; font-weight: 400;}
+.over {position: absolute;left: 0;top: 0;background: rgba(25,25,25,.1);width: 100%;height: 100%;z-index: 2;}
+section.deptos h1 {font-size:2.5em; display:table; margin-bottom:27px;}
+section.deptos h1:after {content: ''; display:block; width:25%; float:right; background: #555555; height:1px; margin-top:9px;}
+section.deptos h1 span {font-size:12px; display:block; clear:both; margin-bottom:2px;}
+.tipoPlanta:before {content: '';width: 10%;height: 1px;background-color: #000;position: relative;float: left;display: block;margin: 2% 16px 0 0;}
+.tipoPlanta {margin-bottom:42px;}
+.tipoPlanta h3 {font-size:24px;font-weight:300;display:table;}
+.imgPlanta {background-position: center top !important;background-repeat: no-repeat !important;background-size: cover !important; height:347px; position: relative;}
+.imgPlanta.duplex {background-size:cover !important;}
+.boxPlanta .imgPlanta .hoverPlanta {width:100%; height:100%; position: absolute; background: rgba(255,255,255,.75); z-index:8; opacity:0;}
+.boxPlanta .imgPlanta .hoverPlanta .imgExpand {background: url(../images/expand.svg);background-size: auto auto;background-size: cover;height: 40px; width: 40px;position: absolute;top: 42%;right: 43%; z-index: 9;}
+.boxPlanta a:hover .imgPlanta .hoverPlanta {opacity:0;}
+.boxPlanta {margin-bottom:48px; position:relative;}
+.boxPlanta .tituloPlanta {font-size:21px; color:#000; font-weight:500; text-transform: uppercase; text-align: center; margin-bottom: 18px; text-align: center; font-weight:400;}
+.boxPlanta .caractPlanta {font-size:14px; color:#000;  text-transform: uppercase; text-align: center; margin:28px 0 24px;}
+.boxPlanta .caractPlanta ul {width:100%;}
+.boxPlanta .caractPlanta ul li {width:49%;}
+.boxPlanta .caract table.tableCaract {width: 57%; font-size:13px; line-height: 1.5; margin:0 auto 32px auto;}
+.boxPlanta .caract .precioDesde { margin:16px auto;font-size:16px; line-height: 1.5; text-align: center;}
+.boxPlanta .caract table.tableCaract td {padding:3px 0;}
+.boxPlanta .caract table.tableCaract td.rowCaract {font-weight:300; font-size: 14px; padding:3px 0;border-bottom: solid 1px black; margin-bottom:6px;}
+.boxPlanta .caract table.tableCaract td.rowTotal {padding:3px 0; margin-top:6px; font-weight:600; text-transform: uppercase;}
+.boxPlanta .caract table.tableCaract td.rowCaract:last-child {text-align: right;}
+.boxPlanta .caract table.tableCaract td.rowTotal:last-child {text-align: right;}
+/*.boxPlanta a.btnCotizar {font-weight:400; font-size:14px; color:#fff; background-color: black; text-align: center; display:table; width:151px; border:solid 1px; line-height:1; padding: 10px 0 14px;-webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out, border-color 0.3s ease-out;transition: color 0.3s ease-out,background-color 0.3s ease-out,border-color 0.3s ease-out;}*/
+.boxPlanta a.btnCotizar {font-weight:300; font-size:15px; line-height:1; padding:16px 0 16px; display:table; margin:0 auto; border: solid 1px #000; background-color: black; width:228px; text-align: center; color:white;text-decoration: none;  -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out, border-color 0.3s ease-out;transition: color 0.3s ease-out,background-color 0.3s ease-out,border-color 0.3s ease-out; letter-spacing: 3px; text-transform: uppercase;}
+.boxPlanta a.btnCotizar:hover {text-decoration: none;background-color: transparent;border-color: #000;color: #000;-webkit-transition:color 0.3s ease-in, background-color 0.3s ease-in, border-color 0.3s ease-in;transition: color 0.3s ease-in,background-color 0.3s ease-in,border-color 0.3s ease-in; font-weight: 500;}
+button.btnCotizar {font-weight:600; font-size:15px; color:#000; text-align: center;text-transform: uppercase; display:table; width:251px; border:solid 1px; line-height:1; padding: 12px 0 16px; border-radius: 0; margin-top:50px; margin-bottom:50px;}
+button.btnCotizar:hover {background: transparent;background-color: #000;border-color: #000;color: #fff;-webkit-transition:color 0.3s ease-in, background-color 0.3s ease-in, border-color 0.3s ease-in;transition: color 0.3s ease-in,background-color 0.3s ease-in,border-color 0.3s ease-in; font-weight: 400;}
+.form-group{position:relative}
+.form-group + .form-group{margin-top:30px}
+.form-label{position:relative;left:0;top:10px;color:#777;background-color:#fff;font-weight:300;border-radius:0;z-index:10;transition:font-size 300ms ease-out,-webkit-transform 300ms ease-out;transition:transform 300ms ease-out,font-size 300ms ease-out;transition:transform 300ms ease-out,font-size 300ms ease-out,-webkit-transform 300ms ease-out; z-index: 2;}
+.focused .form-label{-webkit-transform:translateY(-125%);transform:translateY(-125%);font-size:.75em;color:#000;font-weight:500}
+.form-input{position:relative;padding:12px 0 5px;width:100%;outline:0;border-radius:0;border:0;box-shadow:0 1px 0 0 #000;transition:box-shadow 150ms ease-out; z-index: 4; background-color: transparent;}
+.form-input:focus{box-shadow:0 2px 0 0 #000}
+.form-input.filled{box-shadow:0 2px 0 0 green}
+
+.banner-cotizacion {padding-left:0; padding-right:0;}
+.banner-cotizacion .imgBanner {height:80vh; background-size: cover !important; background-position: right 70% !important; position:relative !important; background-repeat: no-repeat !important;}
+.banner-cotizacion .imgBanner .imgCaption {position:absolute; top:23%; left:12%;z-index:3;}
+.banner-cotizacion .imgBanner .imgCaption h3 {color:#fff;font-size:1.95em;font-weight: 200; margin-bottom:7%;}
+.banner-cotizacion .imgBanner .imgCaption h2 {color:#fff;font-size: 3.05em; font-weight: 200; line-height:1.25;}
+.banner-cotizacion .imgBanner .imgCaption h3 span { font-weight: 400;}
+.resultCotizacion .boxPlanta .imgPlanta {height:520px;}
+table.cotizacion {border:none; width:100%; margin-top:27%;}
+table.cotizacion tr td {border:none;}
+.total {display:table; margin:0 auto; border-top: solid .5px #afafaf; font-size:16px; padding-top:10px;}
+.legal {font-size:12px; float:left; margin-top:22px;}
+.legal .logoradical {width:65px; vertical-align: text-top}
+.resultCotizacion .boxPlanta .tituloPlanta {font-size:20px; font-weight:500;}
+.resultCotizacion .boxPlanta .caractPlanta ul li {font-size:16px;}
+.imgUbicacion {height: 618px;background-size: cover !important;background-position: center 62% !important;background-repeat: no-repeat !important;}
+.mapa .direccion {width: 100%; font-size:1em; font-weight:400; margin-bottom:32px;}
+.mapa .direccion .imgDireccion {width:21px; margin-bottom: 14px; display:inline-block; margin-right:6px;}
+.mapa #map-canvas {height:643px;}
+.imgEntorno {height:643px;}
+.tituloEntorno {font-size:1.25em; margin-top:18px; font-weight:300; text-align: center;}
+.txtEntorno {font-size:1.75em;padding: 14% 9% 0 5%;font-weight: 300;}
+.contacto {padding-bottom: 12%}
+.direccionContacto .nombre, .horarioContacto .nombre { font-size:1.5em; }
+.direccionContacto .direccion, .direccionContacto .telefono, .horarioContacto .txtHorario {font-weight:300; font-size:1.375;}
+section.noBanner margin-top:125px
+.result .logoW {display:none;}
+.result .logoBlack {display:block !important;}
+.imgEficiencia {position:relative;float:left; width:50% !important; background-position: center bottom !important;background-size: cover !important;}
+.imgArquitectonico {position:relative;float:left; width:100% !important; background-position: center bottom !important;background-size: cover !important;height: 643px;}
+/*.imgEficiencia h3 {color:white; font-size:26px; text-align: center; position:absolute; bottom:48%; width: 100%; display:block; text-transform: uppercase; font-weight: 300;}*/
+.imgEficiencia h3 {text-align: center;font-size: 26px;font-weight: 200;position: absolute;width: 100%;color: white;text-shadow: 2px 4px 3px rgba(0,0,0,0.3);z-index: 7;opacity: 0;}
+.imgEficiencia h3 {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 74px;
+}
+.imgEficiencia:hover h3 {
+    opacity: 1;
+}
+.imgEficiencia .imgOver {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100% !important;
+    background: rgba(0,0,0,.5);
+    z-index: 5;
+    opacity: 0;
+}
+.imgEficiencia:hover .imgOver {opacity: 1;}
+.quotation{
+  font-size: 21px;
+  quotes: "\201C""\201D""\2018""\2019";
+  padding: 10px 20px;
+  line-height: 1.4;
+  color:#c6c6c6;
+  text-align: justify;
+}
+
+.quotation:before {
+  content: open-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: -10px;
+  position: relative;
+  top: 30px;
+  color: #ccc;
+  font-size: 3em;
+}
+.quotation::after {
+  content: close-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: 10px;
+  position: relative;
+  top: 35px;
+  color: #ccc;
+  font-size: 3em;
+}
+
+.carousel-inner > .item.imgHome {height:90vh;background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important;}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption {position:absolute; top:28%; left:7%; color: white; z-index:9}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption h3 {font-size:1.7em;font-weight: 400; margin-bottom:3.5%;text-shadow: 0.075em 0.08em 0.1em rgba(0, 0, 0, 1);}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption h2 {font-size: 3.05em; font-weight: 200; line-height:1.25; text-transform: uppercase;text-shadow: 0.075em 0.08em 0.1em rgba(0, 0, 0, 1);}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption h2 span { font-weight: 400;}
+.bounce {-moz-animation: bounce 3s infinite;-webkit-animation: bounce 3s infinite;animation: bounce 3s infinite;}
+.arrowDown .txtScroll {color:white; font-weight:300;font-size:16px;transform: translateY(64%) rotate(-90deg);transform-origin: top left;}
+.arrowDown {position:absolute; left:6%; bottom:4%;}
+.lineDown  {width:25px; height:95px;}
+.lineDown img {height: 85px;width: 25px;margin:0 auto; display:block;}
+.arrowAnimated.bounce {width: 25px;height: 35px;}
+ul.listEfi {list-style: outside disc; margin-top:23px; font-size:14px; margin-left:12px;}
+ul.listEfi li {padding-left:8px;}
+.result .navbar-default .navbar-nav > li > a {color: black !important}
+.colAmenities {padding-left: 0; padding-right:0; height:604px; border-left: solid 10px white;border-right: solid 10px white; position:relative; cursor: pointer;}
+.txtAmenities {text-align: center;font-size: 26px;font-weight: 200; position:absolute; width:100%; color: white;text-shadow: 2px 4px 3px rgba(0,0,0,0.3); z-index:7; opacity:0;}
+.txtAmenities {margin: auto; position: absolute;top: 0; left: 0; bottom: 0; right: 0; height:114px;}
+.colAmenities .imgOver {position: absolute;top: 0;left: 0;width: 100%;height: 604px;background:rgba(0,0,0,.35);z-index: 5; opacity: 0;}
+.colAmenities:hover .imgOver {opacity: 1;}
+.colAmenities:hover .txtAmenities {opacity: 1;}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-15px);
+    -ms-transform: translateY(-15px);
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+  60% {
+    -moz-transform: translateY(-7px);
+    -ms-transform: translateY(-7px);
+    -webkit-transform: translateY(-7px);
+    transform: translateY(-7px);
+  }
+}
+.centered {margin: 0 auto; float:none;clear: both; position: relative;}
+.txtLegal {font-size:11px; margin-top:18px; text-align: center;display: inline-table;}
+.listComod {font-size: 18px;text-align: center;text-transform: uppercase;}
+a.btnMail {width: auto; color:black ;border: solid 2px black;padding: 7px 0px;display: block;width: 178px;text-align: center;}
+.imgLink {background-position: center; background-size:cover; height:630px; margin:0;padding:0; width:100%; position:relative}
+/*
+.imgLink h1 {
+
+    position: absolute;
+    bottom: 40%;
+    color: black;
+    left: 0%;
+    font-weight: 400;
+    text-align: center;
+    width: 25%;
+    background: rgba(255,255,255,.5);
+    margin: 0 38%;
+	padding:3% 0;
+	font-size:18px;
+}
+*/
+.imgLink h1::after {
+    content: '';
+    display: none;
+    width: 25%;
+    float: right;
+    background: #fff;
+    height: 1px;
+    margin-top: 9px;
+}
+
+.imgLink h1 {
+    z-index: 100;
+    width: 262px;
+    height: auto;
+    padding: 1% 0;
+    position: absolute;
+    color: white;
+    text-align: center;
+    border: solid 1px #000;
+    transition: all .5s ease-in;
+    display: table;
+    bottom: 40%;
+    left: 0;
+    margin: 0 auto;
+    font-size: 22px;
+    transition: all .5s ease-in;
+    background: black;
+    right: 0;
+}
+.imgLink h1:hover {border: solid 1px #fff;color: black;background: white;transition: all .5s ease-in;}
+
+.imgProy {height:643px; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important;}
+.imgProyFull {height:643px; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; padding:0;}
+.imgEntorno {height:643px; background-size: cover !important;background-repeat: no-repeat !important;}
+.icosEntorno {display:table; text-align: center; width: 100%; margin:41px 0;}
+.icosEntorno li.icoEntorno {width:25%; display:inline-block; float:none;}
+.icosEntorno li.icoEntorno img {width:88px; clear:both;}
+.icosEntorno li.icoEntorno img {width:78px; clear:both;}
+.icosEntorno li.icoEntorno span {font-size: 14px;clear: both;width: 100%;display: block;margin-top: 10px;text-transform: uppercase;font-weight: 400;}
+.icosEntorno li.icoEntorno p {font-size: 12px; display:block; padding:12px 0 0 0; text-align: center; font-weight:400}
+.cl-effect-1.drop-on.Linkoficina {border: solid 1px white}
+.cl-effect-1.drop-on.Linkoficina a {color:white !important;}
+.navbar.whitebg .cl-effect-1.drop-on.Linkoficina {border: solid 1px black}
+.navbar.whitebg .cl-effect-1.drop-on.Linkoficina a {color:black !important; border:0 !important;}
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+    background-color: transparent;
+}
+.result .navbar .cl-effect-1.drop-on.Linkoficina {border: solid 1px black !important;}
+.result .navbar .cl-effect-1.drop-on.Linkoficina a {color:black !important;}
+
+/*Paragua*/
+
+/*body.paragua {background: black !important;}*/
+body.paragua .bgParagua {background: #000;background: none !important;background-size: cover !important; background-position: bottom left !important; background-repeat: no-repeat !important;}
+body.paragua .logoParagua {position: absolute;top:0; left:0; right:0; width:155px; margin:0 auto; background-color: black; padding: 2% 1%; z-index: 999; display:inline-block; vertical-align: middle;}
+body.paragua .logoParagua img {width: 114px; display:inline-block; vertical-align: middle; width: 100%; height:71px;}
+body.paragua .container.wrapper {width: 100% !important;padding: 0 7%;}
+
+body.paragua .imgParagua {height:100vh; width:100%;}
+body.paragua .colParagua {margin:0; padding:0;}
+/*body.paragua .colParagua.depto {background: url(../images/meet_plaza_depto.jpg); background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important;}
+body.paragua .colParagua.oficina {background: url(../images/fachadageneral_noche.jpg);background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important;}*/
+body.paragua .colParagua .imgCaption h3 {color:white; font-size:16px; margin-bottom:4px;line-height:1.2;}
+body.paragua .colParagua .imgCaption h2 {color:white; font-size:30px; font-weight:200; line-height:1.2;}
+body.paragua .colParagua .imgCaption h2 span {font-weight:500;}
+body.paragua .imgPad {position: relative;}
+body.paragua .colParagua .txtImg {margin-top:16px;display:table; padding: 0 12px; width:275px;}
+body.paragua .colParagua .txtImg .tituloImg {font-size:18px; color: white; font-weight:300;}
+body.paragua .colParagua .txtImg .descImg {font-size:16px;color:#828282;font-weight:300; margin-top:4px;}
+body.paragua .colParagua .txtImg:after {content: '';display: block;width: 25%;float: right;background: #fff;height: 1px;margin-top: 9px;}
+body.paragua a .colParagua .imgParagua .bgHover {background: rgba(0,0,0,.25); width:100%; height:100%; z-index: 2;}
+body.paragua a .colParagua .imgParagua .btnHover {}
+body.paragua a:hover .colParagua .imgParagua .bgHover {display:block;}
+body.paragua a:hover .colParagua .imgParagua .btnHover {display:table;}
+body.paragua .btnParagua {z-index: 100; width:260px;height:86px; padding:2% 0; position:absolute; color:white; text-align: center; border: solid 1px #fff;transition: all .5s ease-in; display:table;}
+body.paragua .colParagua.depto .imgParagua .btnParagua {top: 50% !important;left: 50% !important;}
+body.paragua .colParagua.oficina .imgParagua .btnParagua {top: 53.3%;left: 27%;}
+body.paragua .colParagua.oficina .imgParagua.imgPad .btnParagua {margin: -20px 0 0 -137px !important;}
+body.paragua .btnParagua .txtHover {opacity:0; display: none; font-size:18px;transition: all .5s ease-in;vertical-align:middle; letter-spacing: 2px;}
+body.paragua .btnParagua .txtIni {font-weight:500;font-size:18px;transition: all .5s ease-in; opacity:1;display: table-cell; width: 100%; text-align: center; vertical-align:middle; letter-spacing: 2px;}
+body.paragua .btnParagua .txtIni span {font-weight:200;}
+body.paragua a:hover .btnParagua {border: solid 1px #000; color: white; background: black;transition: all .5s ease-in;}
+body.paragua a:hover .txtHover {opacity:1;display: table-cell; }
+body.paragua a:hover .txtIni {opacity:0;display: none; }
+
+
+.scroll-hero {
+  width: 100%;
+
+  position: absolute;
+}
+
+.scroll { position: absolute; top: initial; bottom: 31px; left:50%; z-index:99; width:97px; transform: translate3d(-50%, 0px, 0px); -webkit-transform: translate3d(-50%, 0px, 0px); -moz-transform: translate3d(-50%, 0px, 0px); -ms-transform: translate3d(-50%, 0px, 0px); -o-transform: translate3d(-50%, 0px, 0px); }
+.scroll a:hover {text-decoration: none;}
+.scroll .txtScroll {font-size:14px; margin-bottom:8px; color: white; font-weight:300;}
+.scroll .imgScroll {opacity: 0.75; transition: ease 1s;-webkit-animation: bouncey 1.6s linear infinite;animation: bouncey 1.6s linear infinite; width:24px; margin:0 auto;}
+.scroll a:hover .imgScroll {opacity:1;}
+
+/* carousel */
+.media-carousel .carousel-control.left 
+{
+  left: 40px;
+  height: 40px;
+  width : 40px;
+  margin-top: 15%;
+}
+/* Next button  */
+.media-carousel .carousel-control.right 
+{
+  right: 50px !important;
+  height: 40px;
+  width : 40px;
+  margin-top: 15%
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+.media-carousel img
+{
+  width: 250px;
+  height: 100px
+}
+/* End carousel */
+@-webkit-keyframes bouncey {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(6px);
+            transform: translateY(6px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+
+@keyframes bouncey {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(6px);
+            transform: translateY(6px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+body.blog footer .container.wrapper {width: 84.5% !important;}
+.ekko-lightbox-nav-overlay a span {padding: 0 !important;color: black !important; font-size:52px}
+.imgAmenities {height:604px; width:100%; padding:0; background-size:cover;}
+.carousel-inner .active.left { left: -25%; }
+.carousel-inner .next        { left:  25%; }
+.carousel-inner .prev    { left: -25%; }
+.carousel-control        { width:  4%; }
+.carousel-control.left,.carousel-control.right {margin-right:15px;background-image:none;}
+body.result section.deptos .imgPlanta {height: 28vw;background-size: contain !important;}
+
+.carousel-indicators {bottom: 7%;left: 90%;width: 20px;padding-left: 0;margin-left: 0% !important;}
+.carousel-indicators li {position: relative;display: inline-block;vertical-align: top;width: 16px!important;height: 16px!important;margin:0.5rem 0 !important;border-radius: 50%;border: 2px solid #fff;cursor: pointer; background: transparent !important;}
+.carousel-indicators li:before {content: "";position: absolute;left: 50%;top: 50%;width: 10px;height: 10px;background: #fff;border-radius: 50%;transition: -webkit-transform 0.3s;transition: transform 0.3s;transition: transform 0.3s, -webkit-transform 0.3s;-webkit-transform: translate(-50%, -50%) scale(0);transform: translate(-50%, -50%) scale(0);}
+.carousel-indicators li.active::before, .carousel-indicators li:hover::before {-webkit-transform: translate(-50%, -50%) scale(1);transform: translate(-50%, -50%) scale(1);}
+.navbar-right li.social a.social_icon {display: inline-block; color:black; width:30px; height:30px; border: solid 1px white; text-decoration: none !important; border-radius:50%;}
+.navbar-right li.social a.social_icon i {font-size:24px; display:block; width:100%; color:white;}
+body.result .navbar-right li.social a.social_icon {color:black !important;}
+.navbar-right li.social a.social_icon:hover {text-decoration: none !important;}
+.whitebg .navbar-right li.social a.social_icon i {color: black}
+.Linkoficina a:hover {text-decoration: none !important; border: 0 !important;}
+#carousel-eficiencia a.carousel-control {margin-top:25%;}
+
+body.result .logoW {display: none;}
+section.noBanner {margin-top: 125px;}
+footer .fraseFooter a {width: 160px; display:block; float:left; height:auto; overflow: hidden; z-index: 999;}
+.modal-header {padding: 0;border: none;}
+button.close { opacity:1;filter: alpha(opacity=100);font-weight: 200; font-size:40px;}
+.modal-header .close {margin-top: -6px;margin-right: 6px;z-index: 999;position: relative;}
+.modal-body {padding: 0 15px 15px;}
+.imgLb {width:651px; height:591px; background-size:cover !important; margin:0 auto; float:none;}
+.modal-backdrop {z-index: aa;}
+
+.modal .modal-body .tituloPlanta {text-align: center;}
+.modal .modal-body table.tableCaract {width: 30%; font-size:13px; line-height: 1.5; margin:0 auto 32px auto;}
+.modal .modal-body .precioDesde { margin:16px auto;font-size:16px; line-height: 1.5; text-align: center;}
+.modal .modal-body table.tableCaract td {padding:3px 0;}
+.modal .modal-body table.tableCaract td.rowCaract {font-weight:300; font-size: 14px; padding:3px 0;border-bottom: solid 1px black; margin-bottom:6px;}
+.modal .modal-body table.tableCaract td.rowCaract:last-child {text-align: right;}
+.modal .modal-body table.tableCaract td.rowTotal {padding:3px 0; margin-top:6px; font-weight:600; text-transform: uppercase;}
+.modal .modal-body table.tableCaract td.rowTotal:last-child {text-align: right;}
+.modal .modal-body a.btnCotizar {font-weight:300; font-size:15px; line-height:1; padding:17px 0 17px; display:table; margin:0 auto; border: solid 1px #000; background-color: black; width:194px; text-align: center; color:white;text-decoration: none;  -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out, border-color 0.3s ease-out;transition: color 0.3s ease-out,background-color 0.3s ease-out,border-color 0.3s ease-out; letter-spacing: 3px; text-transform: uppercase;}
+.modal .modal-body a.btnCotizar:hover {text-decoration: none;background-color: transparent;border-color: #000;color: #000;-webkit-transition:color 0.3s ease-in, background-color 0.3s ease-in, border-color 0.3s ease-in;transition: color 0.3s ease-in,background-color 0.3s ease-in,border-color 0.3s ease-in; font-weight: 500;}
+.lnkModal {border: none; outline: none;}
+.lnkModal:hover {cursor:url(data:application/cur;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfjBwgVBBPRr9IyAAAA3klEQVQoz33OsS5DYRjG8d9BE6mVNBGNXoGYJLXYOlg6iwtwEh3Z3QIbC7EYJTZuoRWHqRKLuVsrrYT2GE7rOO2J//Q+3/P/3u8LTNiyq+LDi1sdU6y6F4vcuNPRcyTI1u9aNsdpwaGB07/Cg0dLmY01X+rp26Pf2ynnmpPxxJNZqkZKMGfda47QFqgkwkAxRyjiMxEiVYUZYUdfOxlX9DSm6oLIZRqPDdQy9bWutfQgcObbhW3LyvY96xoKs0vrmmKxWN+VstDQwfTHSqo2LI5TrpIlNLQ3/4/Q8qb/A90FOIeHdnThAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTA3LTA4VDE5OjA0OjE5KzAyOjAwDXXPKQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wNy0wOFQxOTowNDoxOSswMjowMHwod5UAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC), pointer}
+.colAmenities .txtAmenities span {color:#fff; font-size:16px; text-align: center; padding: 2% 14%; display:table;}
+
+
+@media (min-width: 1366px) and (max-width: 1440px) {
+    .veninte {
+    width: 271px !important;
+    margin: 0 auto !important;
+    display: block !important;
+}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption h3 {
+    font-size: 1.35em;
+}
+	body {font-size:14px;}
+  .modal .imgLb {width:500px; height:454px;}
+  #carousel-example-generic .carousel-inner .item.imgHome .imgCaption {top:32%;}
+  #carousel-example-generic .carousel-inner .PROMO .imgCaption {top:24% !important;}
+  .boxPlanta .caract table.tableCaract {width: 70%;}
+  .modal .tituloPlanta {margin-bottom:-5%;}
+}
+@media (min-width: 1025px) and (max-width: 1365px) {
+ /* body {background-color:lightblue;}*/
+  .imgCaption h2 {font-size: 32px !important;}
+  .imgCaption h3 {font-size: 21px !important;}
+  .boxPlanta .caract table.tableCaract {width: 76% !important;}
+  .modal .imgLb {width:454px; height:454px;}
+  .modal .imgLb.duplex {width:100%; height:326px;}
+  #carousel-example-generic .carousel-inner .item.imgHome .imgCaption {top:22%}
+  .modal .tituloPlanta {margin-bottom:-5%;}
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .imgCaption h2 {font-size: 28px !important;}
+  .imgCaption h3 {font-size: 16px !important;}
+  .navbar-default .navbar-nav > li > a {font-size:12px;}
+  body.paragua .bgParagua {background-position: 35% bottom !important;}
+  .logoBlack, .logoW {width:90px !important;}
+  .modal .imgLb {width:500px; height:454px;}
+  .result .deptos.noBanner {margin-top: 65px; background:none !important;}
+  body.result .padTop {padding-top:8% !important;}
+}
+@media (max-width: 768px) {
+	body {font-size:12px; overflow-x: hidden;}
+	.navbar {padding:3% 0; background:white;transition: top 0.4s ease-in-out !important;}
+	.navbar.nav-up {top: -72px;transition: top 0.4s ease-in-out;}
+	section {margin:9% 0;}
+	.wrapper {width:100%;}
+	.no-padding {padding-left: 0; padding-right:0;}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {border:none; max-height:none; height:100vh}
+	.navbar-default .navbar-nav > li {margin: 0px;margin-bottom:10px;}
+	.navbar-default .navbar-nav > li > a {font-size: 100%;width: 80%;float:none;margin: 0 auto;padding-bottom: 5px;border-bottom:solid 1px #000;text-align: left;color: black !important;}
+	.banner-home {padding-left: 15px; padding-right: 15px; margin-bottom:9%;}
+	.banner-home .imgBanner {height:80vh; background-position: top 30% !important;}
+	.banner-home .imgBanner .imgCaption {position:absolute; top:30%; left:5%;}
+	.banner-home .imgBanner .imgCaption h3 {font-size:1em;font-weight: 400; margin-bottom:9%;}
+	.banner-home .imgBanner .imgCaption h2 {font-size:1.5em; font-weight: 200;}
+	.banner-home .imgBanner .imgCaption h2 span { font-weight: 400;}
+	section.diseno .imgDiseno {height:394px !important; background-size: cover !important; background-position: center;margin-top:31px;}
+	section {margin:9% 0;}
+	section h1 {font-size:2.75em; display:table; margin-bottom:27px;}
+	section h1:after {content: ''; display:block; width:25%; float:right; background: #555555; height:1px; margin-top:9px;}
+	section h1 span {font-size:12px; display:block; clear:both; margin-bottom:2px;}
+	section p {font-size:13px; text-align: justify; font-weight:300;}
+	section .txtBajada {font-size:14px; font-weight:400; margin-bottom:15%;}
+	footer {padding:4% 0; background: black; color:#fff; z-index:99;}
+	footer .fraseFooter {margin-bottom:25px; text-align: center !important;}
+	footer .logoFooter {margin-top:41px;}
+	footer .logoFooter .img {margin:0 auto !important; float:none; display:table;}
+	footer .logoFooter .direccion {margin-top:33px; text-align: center !important;font-size:13px !important;}
+	footer .logoFooter .legal {margin-top:2px; text-align: center !important; font-size:13px !important; float:none !important;}
+	.banner-interior {padding-left: 15px; padding-right: 15px; }
+	.banner-interior .imgBanner {background-position: 50% 15% !important;}
+	.banner-interior .imgBanner .imgCaption {position:absolute; top:41vh; left:5%;}
+	.banner-interior .imgBanner .imgCaption h3 {font-size:1.2em;font-weight: 400; margin-bottom:9%;}
+	.banner-interior .imgBanner .imgCaption h2 {font-size:2.4em; font-weight: 200;}
+	.banner-interior .imgBanner .imgCaption h2 span { font-weight: 400;}
+	.imgPatio {margin-top:31px; margin-bottom:42px; height:394px !important;}
+	section.comodidades .imgComodidades {height:394px !important;}
+	section.caracteristicas ul.listaCaract li {display:table-cell; width:auto;}
+	section.caracteristicas ul.listaCaract li span.txtCaract {font-size:11px; clear:both; width:100%; display:block;}
+	section.caracteristicas ul.listaCaract li img {width: 52px}
+	section.comodidades ul.listComodidades {width:250px;padding-left:15px;display: block;overflow: hidden;}
+	.vidProy {margin-top:32px;}
+	.boxPlanta {margin-bottom:42px;}
+	.boxPlanta .tituloPlanta {font-size:16px; margin-bottom:4px;}
+	.boxPlanta .caractPlanta {font-size:12px;}
+	.banner-cotizacion .imgBanner {background-position: right top !important;}
+	.banner-cotizacion .imgBanner .imgCaption {position:absolute; top:26%; left:5%;}
+	.banner-cotizacion .imgBanner .imgCaption h3 {font-size:1.2em;font-weight: 200; margin-bottom:9%;}
+	.banner-cotizacion .imgBanner .imgCaption h2 {font-size:2.4em; font-weight: 200;}
+	.banner-cotizacion .imgBanner .imgCaption h2 span { font-weight: 400;}
+	.resultCotizacion .boxPlanta .imgPlanta {height: 206px !important;}
+	.total {font-size:12px;}
+	.legal {font-size: 12px;float: none !important;margin: 0 auto;margin-top: 0px;width: 66px;margin-top: 12px;}
+	.legal .logoradical {margin-top:2px;}
+	table.cotizacion {margin-top:0 !important;}
+	.resultCotizacion .boxPlanta .tituloPlanta {font-size:14px; font-weight:500;}
+	.resultCotizacion .boxPlanta .caractPlanta ul li {font-size:14px;}
+	.imgEntorno {height:232px;padding: 28% 9% 0 5%;}
+	.padLeft.padTop {padding-top:0; padding-left:30px; padding-right: 30px;}
+	.padLeft {padding-left:30px; padding-right: 30px;}
+	.dos_icos li {width: 34% !important;}
+	section.comodidades ul.listComodidades li {width:100%;}
+	.imgUbicacion {height:394px !important;margin-top: 31px;}
+	.mapa .direccion {font-size:15px;}
+	.mapa #map-canvas {height:394px;}
+	.tituloEntorno {margin-bottom:42px;}
+	.padMob {padding-left:30px !important; padding-right: 30px !important}
+  section .txtBajada {width:100% !important;}
+	.imgEficiencia {height: 394px !important;}
+  .imgArquitectonico {height:232px !important;}
+  body.paragua .logoParagua {margin-bottom:8%;}
+  body.paragua .logoParagua img {display:table; margin: 1% auto 0;}
+  body.paragua .colParagua .imgCaption h3 {font-size:12px;}
+  body.paragua .colParagua .imgCaption h2 {font-size:23px;}
+  body.paragua .noPadmob {padding:0 !important;}
+  body.paragua .colParagua .txtImg .tituloImg {font-size:12px;}
+  body.paragua .colParagua .txtImg .descImg {font-size:12px;}
+  body.paragua .colParagua.noPR {padding-right: 0 !important;}
+  body.paragua .colParagua.noPL {padding-left: 0 !important;}
+  body.paragua .colParagua .txtImg {padding:0 6px; width:auto;}
+  body.paragua .imgCaption {padding-left:4%;}
+  .imgCaption h3 {font-size:12px !important;}
+  .imgCaption h2 {font-size:18px !important;}
+  body.paragua a .colParagua .imgParagua .btnHover {font-size: 14px;margin: 0 2%;}
+  .cl-effect-1.drop-on.Linkoficina a {color: black !important; border:0 !important;}
+  .navbar.whitebg .cl-effect-1.drop-on.Linkoficina {color: black !important; border:0 !important;}
+  .padTBmob {padding-top:9% !important; padding-bottom:9% !important;}
+  section h1::after {float:none;}
+  section.arquitectonica {margin-bottom:0 !important;}
+  .scroll {bottom: 31px;left: 0;width: 100%;display: table;}
+  .scroll .txtScroll {font-size:12px; text-align: center;margin-bottom: 2px;}
+  .scroll .imgScroll {margin:0 auto;}
+  .imgProy {height:294px;}
+  .padTBmob {padding-top:9% !important; padding-bottom:9% !important;}
+  section h1::after {float:none;}
+  section.arquitectonica {margin-bottom:0 !important;}
+  .scroll {bottom: 31px;left: 0;width: 100%;display: table;}
+  .scroll .txtScroll {font-size:12px; text-align: center;margin-bottom: 2px;}
+  .scroll .imgScroll {margin:0 auto;}
+  .scroll .imgScroll  img {width:21px !important;}
+  .imgProy {height:394px;}
+  .quotation {font-size: 16px;}
+  .quotation::after {font-size:2em;left: 0px;top: 9px;}
+  .quotation::before {font-size:2em;left: -5px;position: relative;top: 10px;}
+  .listAmenities li {width:50%; height:112px; float:left;} 
+   .listAmenities li span {font-size:12px; clear:both; text-align: center; display:block; margin:0 auto;}
+  .listAmenities li img {width:52px; clear:both; display:block; margin:0 auto 12px;}
+  .list-inline.list-unstyled.listAmenities {float: left;}
+  section.trayectoria .txtBajada {margin-bottom:0 !important;}
+  .imgProyFull {height:294px;background-position: right bottom !important;}
+  .imgLink {height: 294px;}
+  .imgLink h1 {width:68%;left: 0;}
+  .icosEntorno li.icoEntorno img {width:44px;}
+ .icosEntorno li.icoEntorno {width:30%;}
+ .imgContacto {display:none;}
+ body.paragua .imgParagua {height: 82vh;width: 100%;}
+ body.paragua .btnParagua {width: 160px !important; height:60px !important;margin: -30px 0 0 -80px;}
+ body.paragua .btnParagua .txtIni {font-size:14px; letter-spacing:0;}
+ body.paragua .btnParagua .txtHover {font-size:14px;letter-spacing:0;}
+ body.paragua .logoParagua {margin-bottom:0 !important;}
+ body.paragua .logoParagua img {width:94px}
+ .listComod {font-size: 16px;text-align: justify;}
+ body.result section.deptos.noBanner {padding-top:0 !important; background: none !important;margin-top: 17%s !important;}
+ body.cotizar section.deptos.noBanner {margin-top: 100px !important;}
+  body.cotizar #form_cotiza {padding: 0 15px;}
+ body.result section.deptos .imgPlanta {height: 283px;background-size: cover !important;}
+ section.proy01 .container.wrapper {padding-left:0 !important;padding-right:0 !important;}
+ section.proy02, section.caracteristicas, section.trayectoria {margin: 0 !important;}
+ section.proy01 {margin-bottom: 0 !important;}
+ .linkFull a .imgLink h1 {font-size: 14px;padding: 2% 0 !important; width: 58%}
+ section.linkFull .container.wrapper {padding:0 !important;}
+ .mapa {padding: 0;}
+ .mapa iframe {height:330px; margin-bottom:24px !important;}
+ .icosEntorno li.icoEntorno {width: 100% !important; margin-top:22px;}
+ .icosEntorno li.icoEntorno:first-child {margin-top:0 !important;}
+ .entorn01,.entorn02,.entorn03,.entorn04, entorn05 {margin-bottom:0 !important}
+ .entorn06.linkFull a .imgLink {background-position: left bottom !important;}
+ ul.listEfi li {margin-bottom:4px;}
+ section.introHome {margin-bottom:0;}
+section.diseno {margin-top:0;}
+.imgDiseno {margin-top:0 !important;}
+.imgEficiencia h3 {opacity: 1;}
+.imgEficiencia .imgOver {opacity: 1;}
+.imgEficiencia h3 {font-size:16px;}
+#carousel-eficiencia a.carousel-control {margin-top: 45%;}
+#carousel-amenities-mobile .imgAmenitiesMobile .imgAmenities {height:302px;}
+#carousel-amenities-mobile .carousel-control.left, #carousel-amenities-mobile .carousel-control.right {margin-right: 30px;background-image: none;padding-top:35%;}
+#carousel-amenities-mobile .imgAmenitiesMobile .txtAmenities {opacity:1;height:36px;}
+#carousel-amenities-mobile .imgAmenitiesMobile  .imgOver {opacity:1;width: 100%; height: 100%; position: absolute; top:0; left:0; background: rgba(0,0,0,.25);}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption {top:23%;}
+body.paragua .bgParagua {background: url(../images/bg_paragua_mobile.jpg) !important;background-position: left 40% !important; background-size:cover !important}
+body.paragua .btnParagua {margin: -30px 0 0 -80px !important;}
+body.paragua .imgParagua {height: 400px;width: 100%;}
+footer .fraseFooter a {margin:0 auto !important; float:none !important;}
+.imgLb {width:100%; height:400px}
+.bgParagua {background: url(../images/bg_paragua.jpg) !important;}
+video#bgvid {display:none;}
+#bgvid {object-fit: cover !important;
+    width: 100vw !important;
+    height: 960px !important;
+    overflow-x: hidden !important;
+    z-index: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100vh!important;}
+a.btnLink.small {font-size:12px; padding:10px;letter-spacing: 2px; width:auto !important;}
+.carousel-inner > .item.imgHome {height: 50vh !important; background-position: right center !important; margin-top:19%;}
+.span_cotiza p {font-size: 11px;padding: 0 15px;text-align: justify;}
+.boxPlanta .caract table.tableCaract {width:84%;}
+.boxPlanta .caract table.tableCaract tr td {font-size:12px !important;}
+.modal .imgLb.duplex {width:100%; height:170px;}
+  }
+
+@media (max-width: 320px) {
+.over {background: rgba(25,25,25,.3);}
+.imgCaption h3 {font-size: 12px !important;}
+.imgCaption h2 {font-size: 16px !important;}
+body.paragua .btnParagua {width: 130px !important; height:40px !important;margin: -20px 0 0 -65px;}
+body.paragua .btnParagua .txtIni {font-size:12px;}
+body.paragua .btnParagua .txtHover {font-size:12px;}
+.modal .imgLb.duplex {width:100%; height:150px;}
+}
+.banner_home {background: url(../images/2-Render-final-post.jpg); background-repeat:no-repeat; background-size:cover; background-position:center 5%; height:100vh;}
+.txtBannerHome {padding-top:12%; color: white}
+.txtBannerHome h1 {font-size:46px; font-weight:200;letter-spacing: 4px; }
+.txtBannerHome h1 span { font-weight:400;}
+.txtBannerHome p {font-size:28px; font-weight: 300}
+.txtHome {padding:8.5% 0;}
+.txtBig {width:51%;}
+.txtHome h2 {font-size:54px; font-weight: 300;letter-spacing: 4px;text-align: center;}
+.txtHome h2 span {font-weight: 500;}
+.boxHome {margin-bottom:8%;}
+.boxHome .text h3 {font-size:42px; text-transform: uppercase; font-weight: 300; letter-spacing: 2px; margin:4% 0;  line-height:1.25;}
+.boxHome .text h3 span {font-size:21px; text-transform: uppercase; font-weight: 300; display:block; letter-spacing: 2px;}
+.boxHome .text p {font-size:19px; font-weight: 300; display:inline-block;text-align: justify; line-height: 150%;}
+.col-md-6.txtBox {padding-top: 2.5%;}
+
+/*Media Query*/
+@media (min-width: 1200px) {
+
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+body.paragua .btnParagua {width:225px !important;margin: -70px 0 0 -112px;}
+body.paragua .btnParagua div {font-size:20px !important;}
+}
+@media (max-width: 991px) {
+	
+}
+@media (min-width: 769px) {
+
+.txtBig {width: 68%;}
+.txtHome h2 {font-size:48px;}
+.txtBannerHome h1 {font-size:40px; font-weight:200;letter-spacing: 2px; }
+.txtBannerHome p {font-size:24px;}
+.boxHome .text p {font-size: 16px;}
+.boxHome .text h3 {height:98px;}
+.imgPlanta.duplex {height:278px;}
+}
+
+@media (max-width: 640px) {
+    .container-xs2 {
+    width: 95%;
+}
+.PROMO .imgCaption span {
+    width: 100% !important;
+    margin: 0 !important;
+}
+    .tabcontent .col-md-3 {
+    display: none !important;
+}
+.wow {
+  visibility: visible !important;
+  -webkit-animation: none !important;
+     -moz-animation: none !important;
+       -o-animation: none !important;
+      -ms-animation: none !important;
+          animation: none !important;
+}
+#carousel-example-generic .carousel-inner .item.imgHome .imgCaption h2 {
+	font-weight: 400;
+}
+.banner-interior .imgBanner .imgCaption h2 {
+	font-weight: 400;
+}
+
+.txtBannerHome {padding-top:8%;}
+.banner_home {height:71vh;background-position: center top !important; background: url(../images/render_mobile.jpg) bottom center !important;background-repeat: repeat;background-size: auto auto;background-repeat: no-repeat !important;background-size: cover !important;}
+.container.wrapper {width:100%;padding-right: 15px !important;padding-left: 15px !important;}
+.txtBig {width: 100%;}
+.txtHome h2 {font-size:18px; letter-spacing: 2px}
+.txtBannerHome h1 {font-size:24px; font-weight:200;letter-spacing: 2px; }
+.txtBannerHome p {font-size:16px;}
+.boxHome .text p {font-size: 12px;}
+.boxHome .text h3 {height:14px;}
+.contHome .boxHome .text {padding:0 15px;}
+.boxHome .text h3 {height:auto; font-size: 28px;}
+footer {padding:7% 15px}
+footer .txt-footer {margin-bottom:0 !important;}
+footer .address {margin:14px 0;}
+footer .list-social {width:68%; margin:0 auto; float:none !important; margin-bottom:12px;}
+footer .listLogos {width: 97%;margin:0 auto; float:none !important;}
+footer .txt-footer {font-size:13px; text-align: center;}
+footer .address {font-size:16px; text-align: center;}
+footer .list-social ul.list-inline li a {font-size:12px;}
+a.navbar-brand.standard {display:none;}
+a.navbar-brand.mobile {display:table; float:none; margin: 0 auto}
+.navbar-brand > img {width:90px !important;}
+.navbar-toggle .icon-bar {background-color: white;}
+.navbar-toggle {border:none !important; box-shadow: none;}
+.navbar-header {padding: 0 15px}
+.navbar-brand {height: auto;padding:15px;}
+.noPadM {padding-left:0 !important; padding-right:0 !important;}
+body.paragua {background:none;}
+
+body.paragua .btnParagua {width: 145px !important;margin: -15px 0 0 -70px !important;}
+body.paragua .colParagua.oficina .imgParagua.imgPad .btnParagua {margin: margin: -15px 0 0 -70px !important;}
+body.paragua .colParagua.oficina .imgParagua.imgPad .btnParagua {width: 145px !important;margin: -15px 0 0 -70px !important;}
+body.paragua .btnParagua .txtHover {font-size:12px;}
+body.paragua .btnParagua .txtIni {font-size:12px;}
+ a.linkOficina {color:white; font-size:14px; display:inline-block; width:100%; text-align: center; font-weight:300;text-decoration: underline}
+ .accordionLegal {transition: transform 0.3s; -webkit-transform 0.3s;-webkit-transform-origin: top left;transform-origin: top left;height:0; overflow: hidden; margin-top:4px;}
+.accordionLegal.in {height:auto;}
+.carousel-indicators  {display:none;}
+ section.eficencia.black {margin:0 !important;}
+section.linkFull {margin:0 !important;}
+section.linkFull .noPadM {padding-left: 0 !important;padding-right: 0 !important;}
+.entorn01 .container, .entorn02 .container, .entorn03 .container, .entorn04 .container,.entorn05 .container {padding: 0 !important}
+.imgLb {width: 100%;height: 362px;}
+ .modal .modal-body table.tableCaract {width: 60%;}
+ .flechaSubir {position:absolute; top:-40%; right:5%;}
+.flechaSubir img {width:40px; height: 40px}
+.flechaSubir span {color:black; font-size:14px; text-decoration: none;display:block;clear:both;}
+.flechaSubir:hover {text-decoration: none;}
+.boxPlanta a:hover .imgPlanta .hoverPlanta {opacity:1;}
+}
+
+
+/*===== CARD INFO DEPTOS =====*/
+#datos {
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem 0;
+  background-color: #000;
+  color: white;
+  border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  -ms-border-radius: 5px 5px 0 0;
+  -o-border-radius: 5px 5px 0 0;
+}
+
+#myModal .info__list {
+  overflow: hidden;
+  border: 1px solid #c6c6c6;
+  border-radius: 0 0 5px 5px;
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -ms-border-radius: 0 0 5px 5px;
+  -o-border-radius: 0 0 5px 5px;
+}
+
+#myModal .info__list li {
+  background-color: #e7e7e7;
+  padding: .3em 1em;
+}
+
+#myModal .info__list li:nth-child(odd) {
+  background-color: white;
+}
+
+
+
+/*===== NIVELES | MODAL =====*/
+#myModal .paginator {
+  display: none;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 1em;
+  border: 2px solid black;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  text-align: center;
+}
+
+#myModal .item {
+  width: 50%;
+  padding: 1em 0;
+  cursor: pointer;
+}
+
+#myModal .item:nth-child(1) {
+  border-right: 2px solid black;
+}
+
+#myModal .item.active {
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 640px) {
+    #carousel-example-genericeoeo p {
+        font-size: 11px !important;
+    }
+	.modal .imgLb {width: 100%;height: 342px;}
+  .modal .modal-body table.tableCaract {width: 80%;}
+  .imgPlanta.duplex {height:159px;}
+  .imgPlanta {background-size: contain !important;}
+
+  .tab-wrapper {
+    position: relative;
+    top: 100%;
+    left: 0;
+    width: 100vw;
+    background-color: #000;
+  }
+
+  .tab-wrapper-b {
+    left: -100%;
+  }
+
+  .tab-wrapper-c {
+    left: -200%;
+  }
+}
+@media (max-width: 320px) {
+	.txtBannerHome h1 {font-size:16px;}
+	.txtBannerHome p {font-size:12px;}
+	.navbar-brand > img {width:90px !important;}
+	.container.wrapper {width:100%;padding-right: 15px !important;padding-left: 15px !important;}
+	.noPadM {padding-left:0 !important; padding-right:0 !important;}
+	a.btnLink.small {font-size:12px; padding:10px 10px;letter-spacing: 2px; width:auto !important;}
+	.carousel-inner > .item.imgHome {height: 60vh !important; background-position: center !important; margin-top:21%}
+	.item.imgHome .imgCaption {top:35% !important}
+}

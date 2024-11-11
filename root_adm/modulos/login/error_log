@@ -1,0 +1,4 @@
+[13-Nov-2023 13:22:15 Chile/Continental] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/coloresd/public_html/root_adm/dbaccess.php on line 6
+[13-Nov-2023 13:22:15 Chile/Continental] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100613 Library:100505 in /home/coloresd/public_html/root_adm/dbaccess.php on line 6
+[15-Apr-2024 16:22:22 Chile/Continental] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/coloresd/public_html/root_adm/dbaccess.php on line 6
+[15-Apr-2024 16:22:22 Chile/Continental] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100613 Library:100505 in /home/coloresd/public_html/root_adm/dbaccess.php on line 6

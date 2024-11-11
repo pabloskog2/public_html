@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body  {
+	font-family: 'Montserrat', sans-serif !important;
+}
+.logo {
+	width: 80px;
+}
+.jumbotron{
+	margin-bottom: 0 !important;
+	padding: 224px 0;
+	float: left;
+	width: 100%;
+}
+.callto {
+	text-align: center !important;
+	margin: 0 auto;
+	display: block;
+	width: 300px;
+}
+.callto:hover{
+	border: none !importat;
+}
+.separa {
+	padding: 15vh 0;
+}
+.white {
+	float: left;
+	width: 100%;
+	padding: 60px 0;
+}
+.llamado {
+	width: 300px;
+	margin: 0 auto;
+	display: block;
+}
+.listado-pasos ul{
+	margin: 0  !important;
+	padding: 0  !important;
+}
+.listado-pasos ul li{
+	list-style: none !important;
+	color: #15576a !important;
+	font-size: 13px !important;
+}
+.galeria {
+	height: 400px;
+	background-size: cover !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	border: 3px solid white;
+
+}
+.height-xl{
+	height: 700px !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	padding: 0 !important;
+	border: 3px solid white;
+}
+.height-xs{
+	height: 350px !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	border: 3px solid white;
+	padding: 0 !important;
+}
+.navbar-default {
+	margin-bottom: 0;
+	border: 0 !important;
+	border-radius: 0 !important;
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	width: 100%;
+	float: left;
+	background-color: rgba(255, 255, 255, 0.6);
+background: rgba(255, 255, 255, 0.6);
+padding: 10px 50px;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #15576a !important;
+	font-weight: 600;
+}
+.container-xs {
+	width: 600px;
+	margin: 0 auto;
+	display: block;
+}
+footer {
+	background: #15576a !important;
+	padding: 50px 60px;
+	width: 100%;
+	float: left;
+}
+.icon22{
+	width: 20px !important;
+}
+footer ul li {
+	color: white;
+	font-size: 13px;
+	font-weight: 300;
+	margin-bottom: 10px;
+	list-style: none !important;
+}
+.social {
+	margin: 5px;
+}
+.five {
+	width: 19%;
+	padding: 1%;
+	display: inline-block;
+}
+.four {
+    width: 24%;
+    padding: 1%;
+    display: inline-block;
+    margin: 16% auto;
+}
+.miforicon {
+    
+}
+.five img {
+	width: 80px;
+	margin: 0 auto;
+	display: block;
+}
+.cuadrado {
+	background: #15576a !important;
+	height: 40px;
+	width: 100%;
+}
+.icons h4 {
+	font-size: 14px;
+}
+.icons img {
+	width: 80px;
+	margin: 0 auto;
+	display: block;
+}
+input::placeholder {
+  color: #15576a !important;
+  text-align: center !important;
+  font-family: 'Montserrat', sans-serif !important;
+} 
+textarea::placeholder {
+  color: #15576a !important;
+  text-align: center !important;
+  font-family: 'Montserrat', sans-serif !important;
+} 
+.form-control {
+	box-shadow: none !important;
+	border-radius: 0 !important;
+	border: none !important;
+	border-bottom: 2px solid #15576a !important;
+	background: none !important;
+}
+.curba {
+	background: url('../img/curba.svg') !important;
+	background-position:top left  !important;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+}
+.curba-inve-1 {
+	background: url('../img/forma3.png') !important;
+	background-position:bottom left  !important;
+
+	background-repeat: no-repeat !important;
+}
+.curba-inve-2 {
+	background: url('../img/forma2.png') !important;
+	background-position:top right  !important;
+	
+	background-repeat: no-repeat !important;
+}
+.white h1 {
+	font-family: 'Montserrat', sans-serif !important;
+	color: #15576a !important;
+	font-weight: 400 !important;
+	text-transform: uppercase !important;
+	
+}
+.white p {
+	color: #15576a !important;
+	font-weight: 300 !important;
+}
+.plantas .btn-red{
+	width: 80% !important;
+	margin-top: 20px !important;
+}
+.modal-header {
+	border: 0 !important;
+}
+.modal-footer {
+border: 0 !important;
+}
+.modal-body h1 {
+	font-family: 'Montserrat', sans-serif !important;
+    color: #15576a !important;
+    font-weight: 600 !important;
+}
+.btn-red {
+	background: #e42121 !important;
+	color: white ;
+	border-radius: 0;
+	border: 0 !important;
+	box-shadow: none !important;
+	padding: 9px 45px;
+	font-size: 22px !important;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-weight: 600 !important;
+	text-transform: uppercase;
+}
+.plantas pÂ {
+	margin-bottom: 20px !important;
+}
+.btn-red:hover {
+	border: 2px solid red !important;
+	color: red !important;
+	background: white !important;
+	text-decoration: none !important;
+}
+footer .logo {
+ 		width: 100%;
+ 	}
+ 	
+ 	#elbarrio{
+ 	    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(../img/27693142926_a3edd568eb_k.jpeg);
+    width: 100%;
+    height: 600px;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: 0px -612px;
+ 	}
+@media (max-width: 599px){
+    #elbarrio {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(../img/27693142926_a3edd568eb_k.jpeg);
+    width: 100%;
+    height: 800px;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: 0px 0px;
+ 	}
+    
+}
+ @media (max-width: 1100px){
+ 	.white {
+	    float: left;
+	    width: 100%;
+	    padding: 44px 0;
+	}
+ 	footer ul {
+ 		margin: 0;
+ 		padding: 0;
+ 	}
+ 	footer .social{
+ 		margin: 20px auto;
+ 		display: block;
+ 	}
+ 	footer .logo {
+ 		width: 140px;
+ 		margin: 0 auto;
+ 		display: block;
+ 	}
+ 	.listado-pasos {
+ 		padding-bottom: 30px;
+ 	}
+ 	.cuadrado {
+ 		display: none;
+ 	}
+ 	.five h4 {
+ 		font-size: 12px;
+ 	}
+ 	.five {
+ 		width: 48%;
+ 	}
+ 	.navbar-toggle {
+ 		border-radius: 0 !important;
+ 	}
+ 	.navbar-default {
+ 		background: white !important;
+ 	}
+ 	.navbar-default .navbar-nav>li>a {
+ 		text-align: center;
+ 		padding: 4vh 0;
+ 	}
+ 	.white h1 {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #15576a !important;
+    font-weight: 600 !important;
+    font-size: 25px;
+}
+
+ 	.curba {
+ 		background: none !important;
+ 	}
+ 	.container-xs {
+ 		width: 90%;
+ 	}
+ }

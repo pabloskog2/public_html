@@ -1,0 +1,58 @@
+@import url("element.css");
+@import url("style.css");
+@import url("responsive.css");
+
+
+
+.range_input {
+    color: #444;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.range_input span {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold
+}
+
+
+.rangeslider-content {
+    padding: 50px 0 0;
+    position: relative
+}
+
+.rangeslider-content:before {
+    display: table;
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 15px 15px;
+    border-color: transparent transparent #14455b transparent;
+    margin: 0 auto;
+    margin-top: -15px
+}
+
+.rangeslider-content .rangeslider-text {
+    min-height: 175px;
+    background-color: #14455b;
+    padding: 30px 15px 15px
+}
+
+.rangeslider-content .rangeslider-text h4 {
+    color: #fff
+}
+
+.rangeslider-content .rangeslider-text h2 {
+    color: #fff
+}
+
+.rangeslider-content .rangeslider-text p {
+    color: #8a8a8a;
+    margin: 0
+}
+
+
+
+
+
